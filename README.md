@@ -1,3 +1,4 @@
+
  PhysioPal — AI-Powered Remote Physiotherapy Assistant
 
 PhysioPal brings professional physiotherapy guidance directly to users’ homes through AI-powered exercise analysis. Using computer vision and pose estimation, PhysioPal provides real-time feedback on posture, joint angles, and movement accuracy, helping users perform rehabilitation exercises safely without in-person supervision.
@@ -48,3 +49,4 @@ PhysioPal aims to:
 	•	Increase accessibility to supervised rehabilitation
 	•	Demonstrate applied AI in healthcare technology
 
+Devpost Link: https://devpost.com/software/physiopal-w89i2z
